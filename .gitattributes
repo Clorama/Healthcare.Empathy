@@ -2,3 +2,7 @@
 .prefab filter=lfs diff=lfs merge=lfs -text
 .cs filter=lfs diff=lfs merge=lfs -text
 .apk filter=lfs diff=lfs merge=lfs -text
+.forBlog filter=lfs diff=lfs merge=lfs -text
+.userprefs filter=lfs diff=lfs merge=lfs -text
+.csproj filter=lfs diff=lfs merge=lfs -text
+.sln filter=lfs diff=lfs merge=lfs -text
